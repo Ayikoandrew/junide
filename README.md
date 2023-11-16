@@ -6,9 +6,9 @@ A small project we are working on.
 
 ## Project Structure
 
-mydjangoapp/
+junide/
 ├── manage.py
-├── mydjangoapp/
+├── junide/
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
