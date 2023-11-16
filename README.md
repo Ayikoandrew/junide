@@ -4,29 +4,6 @@ junide is a Python web application using the Django framework.
 
 A small project we are working on.
 
-## Project Structure
-
-junide/
-├── manage.py
-├── junide/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── ...
-├── app/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── migrations/
-│   │   └── ...
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-├── static/
-│   └── ...
-├── templates/
-│   └── ...
-└── requirements.txt
-
 
 ## Installation
 
